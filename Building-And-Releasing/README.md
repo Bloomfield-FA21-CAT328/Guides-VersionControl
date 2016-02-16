@@ -19,10 +19,10 @@ Here are the steps in **File -> Build Settings** to do each version:
 1. Select Target Platform - Linux
 2. Select Architecture - x64 + x86_64 (Universal)
 3. Click **Build**
-4. In your project's folder, **use the folder named Build**, and then create a folder named _ProjectName_\_Linux
+4. In your project's folder, **use the folder named Build**, and then create a folder named _ProjectName_\-Linux
 5. Name the executable the name of your project. _NOTE:_ Eventhough it defaults the name to .x86, it will create an executable for bot x86 and x86_64. 
 6. Wait.
-7. Zip up the folder _ProjectName_\_Linux
+7. Zip up the folder _ProjectName_\-Linux
 
 
 ### Mac OS
@@ -30,10 +30,10 @@ Here are the steps in **File -> Build Settings** to do each version:
 1. Select Target Platform - Mac OS X
 2. Select Architecture - x86_64
 3. Click **Build**
-4. In your project's folder, **use the folder named Build**, and then create a folder named _ProjectName_\_Mac
+4. In your project's folder, **use the folder named Build**, and then create a folder named _ProjectName_\-Mac
 5. Name the executable the name of your project.
 6. Wait.
-7. Zip up the folder _ProjectName_\_Mac
+7. Zip up the folder _ProjectName_\-Mac
 
 _NOTE: This configuration will work on most Macs since 2006 and will run on Mac 10.6+_
 
@@ -42,17 +42,22 @@ _NOTE: This configuration will work on most Macs since 2006 and will run on Mac 
 1. Select Target Platform - Windows
 2. Select Architecture - x86
 3. Click **Build**
-4. In your project's folder, **use the folder named Build**, and then create a folder named _ProjectName_\_Win_x86
+4. In your project's folder, **use the folder named Build**, and then create a folder named _ProjectName_\-Win_x86
 5. Name the executable the name of your project.
 6. Wait.
-7. Zip up the folder _ProjectName_\_Win_x86
+7. Zip up the folder _ProjectName_\-Win_x86
 8. Select Target Platform - Windows
 9. Select Architecture - x86_64
 10. Click **Build**
-11. In your project's folder, **use the folder named Build**, and then create a folder named _ProjectName_\_Win_x86_64
+11. In your project's folder, **use the folder named Build**, and then create a folder named _ProjectName_\-Win_x86_64
 12. Name the executable the name of your project.
 13. Wait.
-14. Zip up the folder _ProjectName_\_Win_x86-64
+14. Zip up the folder _ProjectName_\-Win_x86-64
+
+### Files make
+When done, you should have a bunch of zip files, and folders like so:
+
+![](Filelist.png)
 
 ## Release
 Follow the instructions for [Creating Releases](https://help.github.com/articles/creating-releases/), and upload your zip files for your project.
