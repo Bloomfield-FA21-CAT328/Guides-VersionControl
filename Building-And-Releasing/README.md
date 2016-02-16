@@ -2,7 +2,7 @@
 
 Here's a guide for building executables in Unity. If anything else, (ie: RPG Maker, Game Maker, Construct), please try to build a Mac, Windows and Linux versions if available. You don't need to pay for the exporter if that's the only way to export to other OSes. 
 
-## Building from Unity
+## Building in Unity
 If your project is using Unity, here are the formats that should be added to a release:
 
 1. Linux 
@@ -14,11 +14,12 @@ If your project is using Unity, here are the formats that should be added to a r
 Before starting, make a folder named _Build_ (notice no "s" at the end)! If you initialized your project's .gitignore from GitHub, these files will be ignored, which is what you want. You do not want to check in the _Build_ folder, you are supposed to create a Release in GitHub and attach it to that!
 
 ### No development builds!
-Also, make sure "Development Build" is **unchecked**, especially when exporting to Mac, otherwise, you will have to read http://superuser.com/questions/478768/running-app-on-macosx-mountain-lion-job-failed-to-exec3-for-weird-reason-13 and use a Mac to do chmod u+x <Application.app>/Contents/MacOS/<application binary> to produce a working version!
+Also, make sure "Development Build" is **unchecked** for the "release", especially when exporting to Mac, otherwise, you will have to read http://superuser.com/questions/478768/running-app-on-macosx-mountain-lion-job-failed-to-exec3-for-weird-reason-13 and use a Mac to do chmod u+x <Application.app>/Contents/MacOS/<application binary> to produce a working version!
 
+### Build guide
 Here are the steps in **File -> Build Settings** to do each version:
 
-### Linux
+#### Linux
 
 1. Select Target Platform - Linux
 2. Select Architecture - x64 + x86_64 (Universal)
@@ -29,7 +30,7 @@ Here are the steps in **File -> Build Settings** to do each version:
 7. Zip up the folder _ProjectName_\-Linux
 
 
-### Mac OS
+#### Mac OS
 
 1. Select Target Platform - Mac OS X
 2. Select Architecture - x86_64
@@ -41,7 +42,7 @@ Here are the steps in **File -> Build Settings** to do each version:
 
 _NOTE: This configuration will work on most Macs since 2006 and will run on Mac 10.6+_
 
-### Windows
+#### Windows
 
 1. Select Target Platform - Windows
 2. Select Architecture - x86
@@ -58,7 +59,7 @@ _NOTE: This configuration will work on most Macs since 2006 and will run on Mac 
 13. Wait.
 14. Zip up the folder _ProjectName_\-Win_x86-64
 
-### Files make
+#### Files made
 When done, you should have a bunch of zip files, and folders like so:
 
 ![](Filelist.png)
