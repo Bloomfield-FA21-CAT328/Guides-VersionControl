@@ -10,7 +10,11 @@ If your project is using Unity, here are the formats that should be added to a r
 3. Windows 32bit 
 4. Windows 64bit
 
+### Create "Build" folder
 Before starting, make a folder named _Build_ (notice no "s" at the end)! If you initialized your project's .gitignore from GitHub, these files will be ignored, which is what you want. You do not want to check in the _Build_ folder, you are supposed to create a Release in GitHub and attach it to that!
+
+### No development builds!
+Also, make sure "Development Build" is **unchecked**, especially when exporting to Mac, otherwise, you will have to read http://superuser.com/questions/478768/running-app-on-macosx-mountain-lion-job-failed-to-exec3-for-weird-reason-13 and use a Mac to do chmod u+x <Application.app>/Contents/MacOS/<application binary> to produce a working version!
 
 Here are the steps in **File -> Build Settings** to do each version:
 
