@@ -1,6 +1,6 @@
 # Guides
 
-New for 2016! Here are some useful tips for this class and other classes as well. 
+Updated for Fall 2016! Here are some useful tips for this class and other classes as well. 
 
 ## Version Control
 
@@ -16,6 +16,15 @@ or if you like working in right in Windows Explorer, use one of these:
 * [TortoiseGit](Installing-TortoiseGIT/README.md)
 * [TortoiseSVN](Installing-TortoiseSVN/README.md)
 
+Now Mac users have a similar product that works in Finder:
+
+* Free - Limitted to only 1 repo 
+  * [SnailGit - Free](https://itunes.apple.com/us/app/snailgit-free-git-client-finder/id1099475282?mt=12)
+  * [SnailSVN - Free](https://itunes.apple.com/us/app/snailsvn-free-svn-client-finder/id1063090543?mt=12)
+
+* Paid version - IUnlimitted repos
+  * [SnailGit](https://itunes.apple.com/us/app/snailgit/id847260112?l=en&mt=12#) -$6.99
+  * [SnailSVN](https://itunes.apple.com/us/app/snailsvn/id847259925?ls=1&mt=12#) - $8.99
 
 ### Using a client 
 
