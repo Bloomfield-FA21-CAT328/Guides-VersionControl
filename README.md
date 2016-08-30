@@ -22,7 +22,7 @@ Now Mac users have a similar product that works in Finder:
   * [SnailGit - Free](https://itunes.apple.com/us/app/snailgit-free-git-client-finder/id1099475282?mt=12)
   * [SnailSVN - Free](https://itunes.apple.com/us/app/snailsvn-free-svn-client-finder/id1063090543?mt=12)
 
-* Paid version - IUnlimitted repos
+* Paid version - Unlimitted repos
   * [SnailGit](https://itunes.apple.com/us/app/snailgit/id847260112?l=en&mt=12#) -$6.99
   * [SnailSVN](https://itunes.apple.com/us/app/snailsvn/id847259925?ls=1&mt=12#) - $8.99
 
@@ -40,7 +40,7 @@ After you have that inital connection to the GitHub repository then you can read
 
 ### Client documentation
 
-Here are some links to the clients that we will support:
+Here are some links to documentation to the clients that we will support:
 * [GitHub Desktop](https://help.github.com/desktop/guides/contributing/)
 * [TortoiseGit](https://tortoisegit.org/docs/tortoisegit/)
 * [TortoiseSVN](http://tortoisesvn.net/docs/release/TortoiseSVN_en/index.html)
