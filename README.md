@@ -1,4 +1,4 @@
-# Guides
+# Guides: Version Control
 
 Updated for Spring 2017! Here are some useful tips for this class and other classes as well. 
 
