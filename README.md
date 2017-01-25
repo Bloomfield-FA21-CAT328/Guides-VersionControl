@@ -1,15 +1,17 @@
 # Guides
 
-Updated for Fall 2016! Here are some useful tips for this class and other classes as well. 
+Updated for Spring 2017! Here are some useful tips for this class and other classes as well. 
 
 ## Version Control
 
-For this class, all assignments are being submitted via GitHub, so you will need to get used to using Git (or even use SVN).
+For this class, your later assignments will be submitted via GitHub, so you will want to start using Git (or even use SVN).
 
 ### Install a client
 
-One of the easiest solutions is to install 
+One of the easiest solutions (for some) is to install 
 * [GitHub Desktop](https://desktop.github.com/)
+
+There are also other clients like [SourceTree](https://www.sourcetreeapp.com/) and  [GitKraken](https://www.gitkraken.com/).
 
 or if you like working in right in Windows Explorer, use one of these:
 
