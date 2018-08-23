@@ -1,6 +1,6 @@
 # Guides: Version Control
 
-Updated for Spring 2017! Here are some useful tips for this class and other classes as well. 
+Last updated for Spring 2017. Here are some useful tips for this class and other classes as well. 
 
 ## Version Control
 
@@ -11,7 +11,9 @@ For this class, your later assignments will be submitted via GitHub, so you will
 One of the easiest solutions (for some) is to install 
 * [GitHub Desktop](https://desktop.github.com/)
 
-There are also other clients like [SourceTree](https://www.sourcetreeapp.com/) and  [GitKraken](https://www.gitkraken.com/).
+There are also other clients like:
+* [SourceTree](https://www.sourcetreeapp.com/) - Free
+* [GitKraken](https://www.gitkraken.com/). * - Free with GitHub Student pack!)*
 
 or if you like working in right in Windows Explorer, use one of these:
 
@@ -25,8 +27,10 @@ Now Mac users have a similar product that works in Finder:
   * [SnailSVN - Free](https://itunes.apple.com/us/app/snailsvn-free-svn-client-finder/id1063090543?mt=12)
 
 * Paid version - Unlimitted repos
-  * [SnailGit](https://itunes.apple.com/us/app/snailgit/id847260112?l=en&mt=12#) -$6.99
-  * [SnailSVN](https://itunes.apple.com/us/app/snailsvn/id847259925?ls=1&mt=12#) - $8.99
+  * [SnailGit](https://itunes.apple.com/us/app/snailgit/id847260112?l=en&mt=12#) -$9.99
+  * [SnailSVN](https://itunes.apple.com/us/app/snailsvn/id847259925?ls=1&mt=12#) - $14.99
+
+You may also try [GitHub for Unity](https://assetstore.unity.com/packages/tools/version-control/github-for-unity-118069), but your mileage might vary. 
 
 ### Using a client 
 
@@ -45,7 +49,6 @@ After you have that inital connection to the GitHub repository then you can read
 Here are some links to documentation to the clients that we will support:
 * [GitHub Desktop](https://help.github.com/desktop/guides/contributing/)
 * [TortoiseGit](https://tortoisegit.org/docs/tortoisegit/)
-* [TortoiseSVN](http://tortoisesvn.net/docs/release/TortoiseSVN_en/index.html)
 
 ### Other helpful links
 * [GitHub Glossary](https://help.github.com/articles/github-glossary/)
