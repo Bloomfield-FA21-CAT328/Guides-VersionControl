@@ -1,18 +1,18 @@
-#Getting Stuff
+# Getting Stuff
 
 Once a repo has been made it's time to start working on it! 
 
 ## GitHub Desktop 
-If you are using Github Desktop, read about [cloning a repo](https://help.github.com/desktop/guides/contributing/) from their documentation. You can also click on the *Clone in Desktop* button in GitHub.
+If you are using Github Desktop, read about [Cloning a repository from GitHub to GitHub Desktop](https://help.github.com/desktop/guides/contributing-to-projects/cloning-a-repository-from-github-to-github-desktop/) from their documentation. You can also click on the *Clone in Desktop* button in GitHub.
 
-![](images/clone_in_desktop.jpg)
+![](images/clone_in_desktop.png)
 
 ## TortoiseGit - *Git Clone*
 If you are using TortoiseGit, you can clone a GitHub repo like this:
 
 * Find the "Subversion URL" box. Even though this says Subversion, it's also the same URL for doing a Git checkout! Click on the little *Copy to clipboard* button next to the URL
 
-  ![](images/checkout_url.jpg)
+  ![](images/clone-url.png)
   
 * In Windows Explorer, go to the folder you would like to keep a working copy in.
 
@@ -35,7 +35,7 @@ If you are using TortoiseGit, you can clone a GitHub repo like this:
 ## TortoiseSVN - *SVN Checkout*
 * Find the "Subversion URL" box. Even though this says Subversion. Click on the little *Copy to clipboard* button next to the URL
 
-  ![](images/checkout_url.jpg)
+  ![](images/clone-url.png)
   
 * In Windows Explorer, go to the folder you would like to keep a working copy in.
 
@@ -50,6 +50,8 @@ If you are using TortoiseGit, you can clone a GitHub repo like this:
 * If the repo is private, TortoiseSVN may ask for authentication. Use your GitHub username and password.
 
 * Depending on the size of the repo, and your internet connection, it may take a while to download all the files.
+
+### Important notice for SVN users!
   
-* Once it's complete, if you open the folder, you will notice that there are two folders *branches* and *trunk*. You will want to work in the *trunk*, since this is the default folder for what is actively developer. If there were any branches of the repo in GitHub, they would end up in the *branches* folder.
+Once it's complete, if you open the folder, you will notice that there are two folders *branches* and *trunk*. You will want to work in the *trunk*, since this is the default folder for what is actively developer. If there were any branches of the repo in GitHub, they would end up in the *branches* folder.
 So now you can dive into that *trunk* folder and start modifying it. Once you are done and check out how to [send your changes](../Sending-Stuff/README.md)

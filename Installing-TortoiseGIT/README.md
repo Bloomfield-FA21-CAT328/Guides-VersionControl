@@ -1,83 +1,83 @@
 #Installing TortoiseGIT
 
-To use TortoiseGIT and get the easy to use context menus, there are a few step you need to do. You will need an adminstrator access to install these. This guide was written with Git for Windows 2.5.3 and TortoiseGit 1.8.15.0, if using a different version, you might see different options but for the most part we will use the default options.
+To use TortoiseGIT and get the easy to use context menus, there are a few step you need to do. You will need an adminstrator access to install these. This guide was written with Git for Windows 2.18.0 and TortoiseGit 1.8.15.0, if using a different version, you might see different options but for the most part we will use the default options.
 
-## Install [Git for Windows](https://git-for-windows.github.io/ Git for Windows)
+## Install [Git for Windows](https://git-scm.com/download/win)
 
-* Visit <https://github.com/git-for-windows/git/releases/latest> and scroll down to the Downloads. 
+* Visit <https://git-scm.com/download/win> and it should start to download the latest version. 
 
-* You'll want to download the version that is appropriate for your computer, either Git-x.x.x-32-bit.exe for a 32-bit Windows, or Git-x.x.x-64-bit.exe for 64-bit Windows. 
+* Launch the installer
 
-    ![](images/git_for_windows_install01.jpg)
+    ![](images/git_for_windows_install_01.png)
 
-* Click next
+* Accept the GNU General Public License V2, by clicking *Next*
 
-    ![](images/git_for_windows_install02.jpg)
+    ![](images/git_for_windows_install_02.png)
 
-* Accept the GNU General Public License V2
+* You can leave the default components. Maybe you want to use TrueType font in all console windows if you like pretty fonts. And you may want to have it check for daily updates for Git for Windows if you'd like. 
 
-    ![](images/git_for_windows_install03.jpg)
+    ![](images/git_for_windows_install_03.png)
 
-* The Default destination of *C:\Program Files\Git* should be fine
+* Select your editor to use. If you have no experience with it, Vim is an awkward editor. If you have Visual Studio Code, or Notepad++, you may want to select that. If you have experience with nano, you may like to select that.
 
-    ![](images/git_for_windows_install04.jpg)
-
-* You can leave the default components. Maybe you want to use TrueType font in all console windows if you like pretty fonts.
-
-    ![](images/git_for_windows_install05.jpg)
-
-* Since we will be installing TortoiseGIT, we don't need to create any Start Menu short cuts
-
-    ![](images/git_for_windows_install06.jpg)
+    ![](images/git_for_windows_install_04.png)
 
 * You can leave *Use Git from Git Bash only* unless you expect to use the Command Prompt for issuing Git commands directly.
 
-    ![](images/git_for_windows_install07.jpg)
+    ![](images/git_for_windows_install_05.png)
+
+* You can also leave *Use the OpenSSL library*.
+
+    ![](images/git_for_windows_install_06.png)
 
 * You can leave the *Checkout Windows-style, commit Unix-style line endings*. This way, when you edit in Windows, line breaks will appear correct, and then when they are committed, they appear normal for Linux and Mac users.
 
-    ![](images/git_for_windows_install08.jpg)
+    ![](images/git_for_windows_install_07.png)
 
 * You can leave the *Use MinTTY (the default terminal for MSys2)* 
 
-    ![](images/git_for_windows_install09.jpg)
+    ![](images/git_for_windows_install_08.png)
 
-* Unless you are daring, we'll leave the *Enable file system caching* off since it is still considered experimental
+* And, you can leave the *Enable Git Credential Manager* and finally hit *Install* 
 
-    ![](images/git_for_windows_install10.jpg)
+    ![](images/git_for_windows_install_09.png)
 
-* Sit back and wait for it to complete!
+* Sit back and wait for it to complete! 
 
-    ![](images/git_for_windows_install11.jpg)
+    ![](images/git_for_windows_install_10.png)
 
-* You are done!
+* You are done! You don't need to *View Release Notes* or *Launch Git Bash*
+
 
 ## Install [TortoiseGIT](https://tortoisegit.org/)
 
 * Visit <https://tortoisegit.org/download/> and select the appropriate version for your computers (either 32-bit or 64-bit)
 
-    ![](images/tortoisegit_install01.jpg)
+    ![](images/tortoisegit_install_01.png)
 
 * Click *Next* and start going!
 
-    ![](images/tortoisegit_install02.jpg)
+    ![](images/tortoisegit_install_02.png)
     
-* Read the entire license and accept!
+* Read the entire license and accept by clicking *Next*!
 
-    ![](images/tortoisegit_install03.jpg)
+    ![](images/tortoisegit_install_03.png)
     
-* The default options are fine. You may want to choose to not install the *English (GB) dictionary* if you are pressed for 764KB of harddrive space
+* The default options are fine. You may want to choose to not install the *English (GB) dictionary* if you are pressed for 40KB of hard drive space
 
-    ![](images/tortoisegit_install04.jpg)
+    ![](images/tortoisegit_install_04.png)
     
 * Now, just click *Install*, if you are not an administrator, now it will ask for the administrator's password
 
-    ![](images/tortoisegit_install05.jpg)
+    ![](images/tortoisegit_install_05.png)
     
-* Wait for it to install. At first, it may seem like nothing is happening, but after several seconds, the progress bar should start moving
+* Wait for it to install. At first, it may seem like nothing is happening, but after several seconds, the progress bar should start moving. If you had a previous version of TortoiseGit, you may get a message that it has to shut down Windows Explorer.
 
-    ![](images/tortoisegit_install06.jpg)
+    ![](images/tortoisegit_install_06.png)
     
-* That's all folks! You can now Git away until your heart's content with TortoiseGit!
+* And then wait a little bit...
 
+    ![](images/tortoisegit_install_07.png)
+    
+* That's all folks! You can now Git away until your heart's content with TortoiseGit! You don't have to *Show Changelist* if you want.
 
