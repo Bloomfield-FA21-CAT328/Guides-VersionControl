@@ -1,4 +1,4 @@
-#Sending Stuff to GitHub
+# Sending Stuff to GitHub
 
 Once you have made all your changes you can then send all your work to GitHub for everyone to see
 
