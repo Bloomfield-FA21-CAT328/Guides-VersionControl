@@ -1,6 +1,6 @@
-#Installing TortoiseGIT
+# Installing TortoiseGIT
 
-To use TortoiseGIT and get the easy to use context menus, there are a few step you need to do. You will need an adminstrator access to install these. This guide was written with Git for Windows 2.18.0 and TortoiseGit 1.8.15.0, if using a different version, you might see different options but for the most part we will use the default options.
+To use TortoiseGIT and get the easy to use context menus, there are a few step you need to do. You will need an adminstrator access to install these. This guide was written with Git for Windows 2.18.0 *(as of Jan 2019, 2.20.1 is the latest)* and TortoiseGit 2.7.0, if using a different version, you might see different options but for the most part we will use the default options.
 
 ## Install [Git for Windows](https://git-scm.com/download/win)
 
