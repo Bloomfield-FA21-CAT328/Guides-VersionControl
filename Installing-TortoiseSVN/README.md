@@ -1,10 +1,10 @@
 # Installing [TortoiseSVN](http://tortoisesvn.net/)
 
---
+---
 
 *NOTE:* This guide has not been updated since September 2015 because using [TortoiseGit](../Installing-TortoiseGIT/README.md) is the preferred way to interact with GitHub for our class.
 
---
+---
 
 To use TortoiseSVN and get the easy-to-use context menus, you just have to follow these following steps. This guide is written for TortoiseSVN 1.9.2, 
 
