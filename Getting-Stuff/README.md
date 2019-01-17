@@ -10,7 +10,9 @@ If you are using Github Desktop, read about [Cloning a repository from GitHub to
 ## TortoiseGit - *Git Clone*
 If you are using TortoiseGit, you can clone a GitHub repo like this:
 
-* Find the "Subversion URL" box. Even though this says Subversion, it's also the same URL for doing a Git checkout! Click on the little *Copy to clipboard* button next to the URL
+* Click on the "Clone or download" button.
+
+* In the Cone with HTTPS popup, click on the little clipboard icon to copy the web url. Or copy the textfield 
 
   ![](images/clone-url.png)
   
