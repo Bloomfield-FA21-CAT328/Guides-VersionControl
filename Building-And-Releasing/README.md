@@ -76,7 +76,7 @@ You will just need each of the .zip files to add to your release in GitHub.
 
 ## Or just use _Prof Pollati's Unity Utilities - Build Buddy_!
 
-Save your self a lot of hassle. Add [Build Buddy](https://github.com/ProfPollati/ProfPollatiUnityUtilities/releases/download/V2.0.1/BuildBuddy.unitypackage) to your project, and you just have to go to the menu and select **Pollati Utilities -> Build Buddy** and then wait for Unity to build all the projects. The plugin will handle all the building, zipping, and naming of everything for you! If you do not have a particular build component installed, Build Buddy will warn you about it, and build what it can.
+Save your self a lot of hassle. Add [Build Buddy](https://github.com/ProfPollati/ProfPollatiUnityUtilities/releases/latest/download/BuildBuddy.unitypackage) to your project, and you just have to go to the menu and select **Pollati Utilities -> Build Buddy** and then wait for Unity to build all the projects. The plugin will handle all the building, zipping, and naming of everything for you! If you do not have a particular build component installed, Build Buddy will warn you about it, and build what it can.
 
 ## Posting a Release
 
