@@ -9,18 +9,18 @@ GitHub desktop gives you a list of all the files that have changed. All you have
 
 * Enter your commit summary and detailed description
 
-* Hit Commit to Master.
+* Hit *Commit to Main*.
 
 Remember, this is only going to your repo on your machine. If you want to send it to GitHub for others to see you have to also do:
 
-* Click on *Sync*
+* Click on *Push Origin*
 
 If you really want to always send all you changes to GitHub you can check off the option in the menu **Edit -> Automatically Sync after Committing**
 
-## TortoiseGit - *Git Commit -> "master"*
+## TortoiseGit - *Git Commit -> "main"*
 Once you have your code set up and you want it to be available to others via GitHub
 
-* Right click on the folder in explorer and select *Git Commit -> "master"*
+* Right click on the folder in explorer and select *Git Commit -> "main"*
 
   ![](images/tortoisegit_menu_commit.jpg)
   
@@ -44,6 +44,7 @@ Once you have your code set up and you want it to be available to others via Git
 
 * Depending on how much you are submitting and you internet connection, this may take some time before it finishes sending.
 
+<!--
 ## TortoiseSVN - *SVN Commit*
 Working with SVN is a little more straight forward when committing since all commits go right to GitHub.
 
@@ -55,4 +56,5 @@ Working with SVN is a little more straight forward when committing since all com
 
 * Hit *OK*
 
-* Depending on your connection speed and how much you are sending, you might have to wait awile before the commit completes.
+* Depending on your connection speed and how much you are sending, you might have to wait awhile before the commit completes.
+-->

@@ -1,8 +1,8 @@
 # Guides: Version Control
 
-Last updated in September 2018 for Fall 2018 classes. Here are some useful tips for this class and other classes as well. 
+Last minor updates were in August 2021 for Fall 2021 classes. Here are some useful tips for this class and other classes as well. 
 
-For *CAT327 - Game Programming Studio* and *CAT328 - Artificial Intellegence for Games*, all programming assignments will be submitted to GitHub, so here's some help to start using Git.
+For *CAT327 - Game Programming Studio* and *CAT328 - Artificial Intelligence for Games*, all programming assignments will be submitted to GitHub, so here's some help to start using Git.
 
 ## Install a client
 
@@ -10,7 +10,7 @@ A Git client is a program designed to get and send files to a repository. There 
 
 ### Application clients
 
-One of the easiest solutions (for some) is to install 
+One of the easiest solutions is to install 
 
 * [GitHub Desktop](https://desktop.github.com/)
 
@@ -66,7 +66,7 @@ Here are some links to documentation to the clients that we will support:
 * [GitHub Glossary](https://help.github.com/articles/github-glossary/)
 * [Git Cheat Sheet](http://www.git-tower.com/blog/git-cheat-sheet/) - Nice little guide for using Git via command line.
 
-
+<!--
 ## Subversion
 
 While you can still use Subversion for GitHub, there's no reason you have to or should. Git has pretty much become the standard for version control. But if you really want...
@@ -80,3 +80,4 @@ For Mac:
   * [SnailSVN Lite: SVN for Finder](https://itunes.apple.com/us/app/snailsvn-free-svn-client-finder/id1063090543?mt=12) - Free - Limited to only 1 repo
   * [SnailSVN](https://itunes.apple.com/us/app/snailsvn/id847259925?ls=1&mt=12#) - $14.99 - Unlimited repos
 
+-->

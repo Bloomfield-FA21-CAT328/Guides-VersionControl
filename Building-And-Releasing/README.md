@@ -15,7 +15,7 @@ Here are the formats that should be added to a Release:
 4. Windows 64bit
 
 * Why make a Linux build? Because Unity can! If you run SteamOS, you could still play your Unity creation! 
-* Why make a Mac build? Because Unity can, and I use a Mac at home an work, so if you want me to view your project, you need to make a Mac build. 
+* Why make a Mac build? Because Unity can, and I use a Mac at home and work, so if you want me to view your project, you need to make a Mac build. 
 * Why make 2 windows build? Because Unity can, and because the computers in the labs would sometimes run into issues with one build or the other. Better safe than sorry!
 
 ### Create "Builds" folder
@@ -76,7 +76,7 @@ You will just need each of the .zip files to add to your release in GitHub.
 
 ## Or just use _Prof Pollati's Unity Utilities - Build Buddy_!
 
-Save your self a lot of hassle. Add [Build Buddy](https://github.com/ProfPollati/ProfPollatiUnityUtilities/releases/latest/download/BuildBuddy.unitypackage) to your project, and you just have to go to the menu and select **Pollati Utilities -> Build Buddy** and then wait for Unity to build all the projects. The plugin will handle all the building, zipping, and naming of everything for you! If you do not have a particular build component installed, Build Buddy will warn you about it, and build what it can.
+Save yourself a lot of hassle. Add [Build Buddy](https://github.com/ProfPollati/ProfPollatiUnityUtilities/releases/latest/download/BuildBuddy.unitypackage) to your project, and you just have to go to the menu and select **Pollati Utilities -> Build Buddy** and then wait for Unity to build all the projects. The plugin will handle all the building, zipping, and naming of everything for you! If you do not have a particular build component installed, Build Buddy will warn you about it, and build what it can.
 
 ## Posting a Release
 

@@ -3,7 +3,7 @@
 Once a repo has been made it's time to start working on it! 
 
 ## GitHub Desktop 
-If you are using Github Desktop, read about [Cloning a repository from GitHub to GitHub Desktop](https://help.github.com/desktop/guides/contributing-to-projects/cloning-a-repository-from-github-to-github-desktop/) from their documentation. You can also click on the *Clone in Desktop* button in GitHub.
+If you are using Github Desktop, read about [Cloning a repository from GitHub to GitHub Desktop](https://help.github.com/desktop/guides/contributing-to-projects/cloning-a-repository-from-github-to-github-desktop/) from their documentation. You can also click on the *Code* butotn and then selectet *Open with GitHub Desktop*.
 
 ![](images/clone_in_desktop.png)
 
@@ -34,6 +34,7 @@ If you are using TortoiseGit, you can clone a GitHub repo like this:
   
 * Once it's complete, you can start modifying it and then [send your changes](../Sending-Stuff/README.md)
 
+<!--
 ## TortoiseSVN - *SVN Checkout*
 * Find the "Subversion URL" box. Even though this says Subversion. Click on the little *Copy to clipboard* button next to the URL
 
@@ -57,3 +58,4 @@ If you are using TortoiseGit, you can clone a GitHub repo like this:
   
 Once it's complete, if you open the folder, you will notice that there are two folders *branches* and *trunk*. You will want to work in the *trunk*, since this is the default folder for what is actively developer. If there were any branches of the repo in GitHub, they would end up in the *branches* folder.
 So now you can dive into that *trunk* folder and start modifying it. Once you are done and check out how to [send your changes](../Sending-Stuff/README.md)
+-->
